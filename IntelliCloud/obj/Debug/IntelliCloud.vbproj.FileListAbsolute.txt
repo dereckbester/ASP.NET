@@ -1,0 +1,8 @@
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\bin\IntelliCloud.dll
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\bin\IntelliCloud.pdb
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\bin\IntelliCloud.xml
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\obj\Debug\IntelliCloud.Resources.resources
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\obj\Debug\IntelliCloud.vbproj.GenerateResource.Cache
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\obj\Debug\IntelliCloud.dll
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\obj\Debug\IntelliCloud.xml
+c:\users\dereck\documents\visual studio 2012\Projects\IntelliCloud\IntelliCloud\obj\Debug\IntelliCloud.pdb
